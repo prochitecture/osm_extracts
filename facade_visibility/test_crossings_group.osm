@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101752' action='modify' visible='true' lat='46.94828120139' lon='7.45249447871' />
+  <node id='-101754' action='modify' visible='true' lat='46.94825001953' lon='7.45258763326' />
+  <node id='-101755' action='modify' visible='true' lat='46.94823081404' lon='7.45257383843' />
+  <node id='-101756' action='modify' visible='true' lat='46.94826199591' lon='7.45248068388' />
+  <node id='-101758' action='modify' visible='true' lat='46.94823962976' lon='7.45259158256' />
+  <node id='-101759' action='modify' visible='true' lat='46.94823781601' lon='7.45271200348' />
+  <node id='-117714' action='modify' visible='true' lat='46.94827561862' lon='7.45261707071' />
+  <node id='-117715' action='modify' visible='true' lat='46.94825817451' lon='7.45261640699' />
+  <node id='-117716' action='modify' visible='true' lat='46.94825766941' lon='7.45264489306' />
+  <node id='-117717' action='modify' visible='true' lat='46.94827511352' lon='7.45264555678' />
+  <node id='-117751' action='modify' visible='true' lat='46.94822043427' lon='7.45268519735' />
+  <node id='-117752' action='modify' visible='true' lat='46.94820299012' lon='7.45268453363' />
+  <node id='-117753' action='modify' visible='true' lat='46.94820248502' lon='7.4527130197' />
+  <node id='-117754' action='modify' visible='true' lat='46.94821992917' lon='7.45271368341' />
+  <node id='-117766' action='modify' visible='true' lat='46.9482505295' lon='7.45266933417' />
+  <node id='-117767' action='modify' visible='true' lat='46.94825537307' lon='7.45277284178' />
+  <node id='-117768' action='modify' visible='true' lat='46.9482340331' lon='7.45277498457' />
+  <node id='-117769' action='modify' visible='true' lat='46.94822918953' lon='7.45267147696' />
+  <node id='-133731' action='modify' visible='true' lat='46.94822871545' lon='7.45253247251' />
+  <node id='-133732' action='modify' visible='true' lat='46.94821127132' lon='7.45253180879' />
+  <node id='-133733' action='modify' visible='true' lat='46.94821076622' lon='7.45256029486' />
+  <node id='-133734' action='modify' visible='true' lat='46.94822821035' lon='7.45256095858' />
+  <node id='-133735' action='modify' visible='true' lat='46.9482265056' lon='7.45262246448' />
+  <node id='-133736' action='modify' visible='true' lat='46.94820906147' lon='7.45262180076' />
+  <node id='-133737' action='modify' visible='true' lat='46.94820855637' lon='7.45265028683' />
+  <node id='-133738' action='modify' visible='true' lat='46.9482260005' lon='7.45265095055' />
+  <way id='-101782' action='modify' visible='true'>
+    <nd ref='-101752' />
+    <nd ref='-101754' />
+    <nd ref='-101755' />
+    <nd ref='-101756' />
+    <nd ref='-101752' />
+    <tag k='building' v='residential' />
+  </way>
+  <way id='-101790' action='modify' visible='true'>
+    <nd ref='-101759' />
+    <nd ref='-101758' />
+    <tag k='highway' v='residential' />
+  </way>
+  <way id='-101927' action='modify' visible='true'>
+    <nd ref='-117714' />
+    <nd ref='-117715' />
+    <nd ref='-117716' />
+    <nd ref='-117717' />
+    <nd ref='-117714' />
+    <tag k='building' v='residential' />
+  </way>
+  <way id='-102395' action='modify' visible='true'>
+    <nd ref='-117751' />
+    <nd ref='-117752' />
+    <nd ref='-117753' />
+    <nd ref='-117754' />
+    <nd ref='-117751' />
+    <tag k='building' v='residential' />
+  </way>
+  <way id='-102801' action='modify' visible='true'>
+    <nd ref='-117766' />
+    <nd ref='-117767' />
+    <nd ref='-117768' />
+    <nd ref='-117769' />
+    <nd ref='-117766' />
+    <tag k='building' v='residential' />
+  </way>
+  <way id='-103060' action='modify' visible='true'>
+    <nd ref='-133731' />
+    <nd ref='-133732' />
+    <nd ref='-133733' />
+    <nd ref='-133734' />
+    <nd ref='-133731' />
+    <tag k='building' v='residential' />
+  </way>
+  <way id='-103116' action='modify' visible='true'>
+    <nd ref='-133735' />
+    <nd ref='-133736' />
+    <nd ref='-133737' />
+    <nd ref='-133738' />
+    <nd ref='-133735' />
+    <tag k='building' v='residential' />
+  </way>
+</osm>
