@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1953712 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="52.5169900" minlon="13.4278900" maxlat="52.5173400" maxlon="13.4293700"/>
+ <node id="287765056" visible="true" version="5" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171053" lon="13.4292560"/>
+ <node id="287765057" visible="true" version="5" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170044" lon="13.4292193"/>
+ <node id="287765058" visible="true" version="5" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171675" lon="13.4280067"/>
+ <node id="287765059" visible="true" version="5" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172684" lon="13.4280434"/>
+ <node id="290455513" visible="true" version="3" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171558" lon="13.4294918"/>
+ <node id="504461154" visible="true" version="7" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5174056" lon="13.4278179"/>
+ <node id="1289040647" visible="true" version="3" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171898" lon="13.4285086">
+  <tag k="addr:city" v="Berlin"/>
+  <tag k="addr:country" v="DE"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="10243"/>
+  <tag k="addr:street" v="Krautstraße"/>
+  <tag k="addr:suburb" v="Friedrichshain"/>
+ </node>
+ <node id="1289040648" visible="true" version="5" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172341" lon="13.4281826">
+  <tag k="addr:city" v="Berlin"/>
+  <tag k="addr:country" v="DE"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="10243"/>
+  <tag k="addr:street" v="Krautstraße"/>
+  <tag k="addr:suburb" v="Friedrichshain"/>
+ </node>
+ <node id="1289040649" visible="true" version="3" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171053" lon="13.4291074">
+  <tag k="addr:city" v="Berlin"/>
+  <tag k="addr:country" v="DE"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="10243"/>
+  <tag k="addr:street" v="Krautstraße"/>
+  <tag k="addr:suburb" v="Friedrichshain"/>
+ </node>
+ <node id="1289040664" visible="true" version="3" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171458" lon="13.4287914">
+  <tag k="addr:city" v="Berlin"/>
+  <tag k="addr:country" v="DE"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="10243"/>
+  <tag k="addr:street" v="Krautstraße"/>
+  <tag k="addr:suburb" v="Friedrichshain"/>
+ </node>
+ <node id="1289051049" visible="true" version="4" changeset="76717043" timestamp="2019-11-06T18:12:17Z" user="AndiWin" uid="3255123" lat="52.5171267" lon="13.4276690"/>
+ <node id="1289051053" visible="true" version="2" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5166628" lon="13.4282233"/>
+ <node id="1289051056" visible="true" version="2" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5170328" lon="13.4281386"/>
+ <node id="6923471853" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5169971" lon="13.4282024"/>
+ <node id="6923471854" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5169204" lon="13.4282274"/>
+ <node id="6923471855" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5167681" lon="13.4281841"/>
+ <node id="6923471856" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5167064" lon="13.4281843"/>
+ <node id="6923471865" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5169618" lon="13.4282222"/>
+ <node id="6923471866" visible="true" version="1" changeset="76277547" timestamp="2019-10-27T22:06:37Z" user="AndiWin" uid="3255123" lat="52.5170156" lon="13.4281840"/>
+ <node id="7101554753" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171823" lon="13.4280121"/>
+ <node id="7101554754" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171853" lon="13.4279896"/>
+ <node id="7101554755" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172222" lon="13.4280030"/>
+ <node id="7101554756" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172192" lon="13.4280255"/>
+ <node id="7101554757" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170552" lon="13.4292378"/>
+ <node id="7101554758" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170524" lon="13.4292588"/>
+ <node id="7101554759" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170155" lon="13.4292454"/>
+ <node id="7101554760" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170184" lon="13.4292244"/>
+ <node id="7101554761" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170348" lon="13.4289929"/>
+ <node id="7101554762" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170220" lon="13.4289882"/>
+ <node id="7101554763" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170431" lon="13.4288312"/>
+ <node id="7101554764" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5170559" lon="13.4288359"/>
+ <node id="7101554765" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171160" lon="13.4283894"/>
+ <node id="7101554766" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171033" lon="13.4283848"/>
+ <node id="7101554767" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171246" lon="13.4282263"/>
+ <node id="7101554768" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171373" lon="13.4282309"/>
+ <node id="7101554769" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172542" lon="13.4281492"/>
+ <node id="7101554770" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172928" lon="13.4281632"/>
+ <node id="7101554771" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172838" lon="13.4282303"/>
+ <node id="7101554772" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172452" lon="13.4282163"/>
+ <node id="7101554773" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172101" lon="13.4284767"/>
+ <node id="7101554774" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172487" lon="13.4284907"/>
+ <node id="7101554775" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172397" lon="13.4285579"/>
+ <node id="7101554776" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172011" lon="13.4285439"/>
+ <node id="7101554777" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171727" lon="13.4287551"/>
+ <node id="7101554778" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172111" lon="13.4287690"/>
+ <node id="7101554779" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5172022" lon="13.4288349"/>
+ <node id="7101554780" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171638" lon="13.4288210"/>
+ <node id="7101554781" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171287" lon="13.4290819"/>
+ <node id="7101554782" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171673" lon="13.4290959"/>
+ <node id="7101554783" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171583" lon="13.4291629"/>
+ <node id="7101554784" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5171197" lon="13.4291489"/>
+ <node id="7101557885" visible="true" version="1" changeset="79117227" timestamp="2020-01-02T14:31:55Z" user="momabebra" uid="9508237" lat="52.5173065" lon="13.4284173"/>
+ <node id="7769466055" visible="true" version="1" changeset="88723311" timestamp="2020-07-30T09:30:25Z" user="Maracuja" uid="484233" lat="52.5173842" lon="13.4279476"/>
+ <node id="7769466056" visible="true" version="1" changeset="88723311" timestamp="2020-07-30T09:30:25Z" user="Maracuja" uid="484233" lat="52.5171040" lon="13.4277828"/>
+ <way id="26272377" visible="true" version="8" changeset="100298384" timestamp="2021-03-02T18:24:50Z" user="pi=3" uid="10178286">
+  <nd ref="7101554784"/>
+  <nd ref="287765056"/>
+  <nd ref="7101554757"/>
+  <nd ref="7101554758"/>
+  <nd ref="7101554759"/>
+  <nd ref="7101554760"/>
+  <nd ref="287765057"/>
+  <nd ref="7101554761"/>
+  <nd ref="7101554762"/>
+  <nd ref="7101554763"/>
+  <nd ref="7101554764"/>
+  <nd ref="7101554765"/>
+  <nd ref="7101554766"/>
+  <nd ref="7101554767"/>
+  <nd ref="7101554768"/>
+  <nd ref="287765058"/>
+  <nd ref="7101554753"/>
+  <nd ref="7101554754"/>
+  <nd ref="7101554755"/>
+  <nd ref="7101554756"/>
+  <nd ref="287765059"/>
+  <nd ref="7101554769"/>
+  <nd ref="7101554770"/>
+  <nd ref="7101554771"/>
+  <nd ref="7101554772"/>
+  <nd ref="7101554773"/>
+  <nd ref="7101554774"/>
+  <nd ref="7101554775"/>
+  <nd ref="7101554776"/>
+  <nd ref="7101554777"/>
+  <nd ref="7101554778"/>
+  <nd ref="7101554779"/>
+  <nd ref="7101554780"/>
+  <nd ref="7101554781"/>
+  <nd ref="7101554782"/>
+  <nd ref="7101554783"/>
+  <nd ref="7101554784"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="8"/>
+  <tag k="roof:shape" v="flat"/>
+ </way>
+ <way id="26500493" visible="true" version="10" changeset="88723311" timestamp="2020-07-30T09:30:25Z" user="Maracuja" uid="484233">
+  <nd ref="504461154"/>
+  <nd ref="7769466055"/>
+  <nd ref="7101557885"/>
+  <nd ref="290455513"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Krautstraße"/>
+  <tag k="name:etymology:wikidata" v="Q1692361"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="113704952" visible="true" version="7" changeset="88723311" timestamp="2020-07-30T09:30:25Z" user="Maracuja" uid="484233">
+  <nd ref="1289051049"/>
+  <nd ref="7769466056"/>
+  <nd ref="1289051056"/>
+  <nd ref="6923471866"/>
+  <nd ref="6923471853"/>
+  <nd ref="6923471865"/>
+  <nd ref="6923471854"/>
+  <nd ref="6923471855"/>
+  <nd ref="6923471856"/>
+  <nd ref="1289051053"/>
+  <tag k="highway" v="service"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+</osm>
