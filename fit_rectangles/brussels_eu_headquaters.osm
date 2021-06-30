@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-116452' action='modify' visible='true' lat='50.843403' lon='4.3811975' />
+  <node id='-116453' action='modify' visible='true' lat='50.8435538' lon='4.3820231' />
+  <node id='-116454' action='modify' visible='true' lat='50.8435863' lon='4.3821676' />
+  <node id='-116455' action='modify' visible='true' lat='50.8436263' lon='4.3823232' />
+  <node id='-116456' action='modify' visible='true' lat='50.8436969' lon='4.3824083' />
+  <node id='-116457' action='modify' visible='true' lat='50.8437829' lon='4.3824229' />
+  <node id='-116458' action='modify' visible='true' lat='50.8442173' lon='4.3822478' />
+  <node id='-116459' action='modify' visible='true' lat='50.8442895' lon='4.3825809' />
+  <node id='-116460' action='modify' visible='true' lat='50.8439088' lon='4.3828022' />
+  <node id='-116461' action='modify' visible='true' lat='50.8439129' lon='4.3828937' />
+  <node id='-116462' action='modify' visible='true' lat='50.8439006' lon='4.382974' />
+  <node id='-116463' action='modify' visible='true' lat='50.8438578' lon='4.3830346' />
+  <node id='-116464' action='modify' visible='true' lat='50.8440841' lon='4.3835676' />
+  <node id='-116465' action='modify' visible='true' lat='50.843902' lon='4.3837772' />
+  <node id='-116466' action='modify' visible='true' lat='50.8436718' lon='4.3832851' />
+  <node id='-116467' action='modify' visible='true' lat='50.843622' lon='4.3831786' />
+  <node id='-116468' action='modify' visible='true' lat='50.8436147' lon='4.3831717' />
+  <node id='-116469' action='modify' visible='true' lat='50.8435805' lon='4.3831397' />
+  <node id='-116470' action='modify' visible='true' lat='50.8435176' lon='4.3831154' />
+  <node id='-116471' action='modify' visible='true' lat='50.84345' lon='4.3831324' />
+  <node id='-116472' action='modify' visible='true' lat='50.843154' lon='4.3834096' />
+  <node id='-116473' action='modify' visible='true' lat='50.843111' lon='4.3834499' />
+  <node id='-116474' action='modify' visible='true' lat='50.8430815' lon='4.3833918' />
+  <node id='-116475' action='modify' visible='true' lat='50.8430553' lon='4.3833918' />
+  <node id='-116476' action='modify' visible='true' lat='50.843029' lon='4.3833717' />
+  <node id='-116477' action='modify' visible='true' lat='50.8430087' lon='4.3833328' />
+  <node id='-116478' action='modify' visible='true' lat='50.8430036' lon='4.3832818' />
+  <node id='-116479' action='modify' visible='true' lat='50.8429497' lon='4.383166' />
+  <node id='-116480' action='modify' visible='true' lat='50.8431206' lon='4.3829523' />
+  <node id='-116481' action='modify' visible='true' lat='50.8432097' lon='4.3828394' />
+  <node id='-116482' action='modify' visible='true' lat='50.843281' lon='4.3827523' />
+  <node id='-116483' action='modify' visible='true' lat='50.8433287' lon='4.3826561' />
+  <node id='-116484' action='modify' visible='true' lat='50.8433607' lon='4.3825677' />
+  <node id='-116485' action='modify' visible='true' lat='50.843378' lon='4.3824912' />
+  <node id='-116486' action='modify' visible='true' lat='50.8433841' lon='4.3824297' />
+  <node id='-116487' action='modify' visible='true' lat='50.8433861' lon='4.3823752' />
+  <node id='-116488' action='modify' visible='true' lat='50.8433817' lon='4.3823154' />
+  <node id='-116489' action='modify' visible='true' lat='50.8433716' lon='4.3822405' />
+  <node id='-116490' action='modify' visible='true' lat='50.8433589' lon='4.3821679' />
+  <node id='-116491' action='modify' visible='true' lat='50.8432012' lon='4.3812986' />
+  <way id='-101921' action='modify' visible='true'>
+    <nd ref='-116452' />
+    <nd ref='-116453' />
+    <nd ref='-116454' />
+    <nd ref='-116455' />
+    <nd ref='-116456' />
+    <nd ref='-116457' />
+    <nd ref='-116458' />
+    <nd ref='-116459' />
+    <nd ref='-116460' />
+    <nd ref='-116461' />
+    <nd ref='-116462' />
+    <nd ref='-116463' />
+    <nd ref='-116464' />
+    <nd ref='-116465' />
+    <nd ref='-116466' />
+    <nd ref='-116467' />
+    <nd ref='-116468' />
+    <nd ref='-116469' />
+    <nd ref='-116470' />
+    <nd ref='-116471' />
+    <nd ref='-116472' />
+    <nd ref='-116473' />
+    <nd ref='-116474' />
+    <nd ref='-116475' />
+    <nd ref='-116476' />
+    <nd ref='-116477' />
+    <nd ref='-116478' />
+    <nd ref='-116479' />
+    <nd ref='-116480' />
+    <nd ref='-116481' />
+    <nd ref='-116482' />
+    <nd ref='-116483' />
+    <nd ref='-116484' />
+    <nd ref='-116485' />
+    <nd ref='-116486' />
+    <nd ref='-116487' />
+    <nd ref='-116488' />
+    <nd ref='-116489' />
+    <nd ref='-116490' />
+    <nd ref='-116491' />
+    <nd ref='-116452' />
+    <tag k='addr:city' v='Etterbeek - Etterbeek' />
+    <tag k='addr:housename' v='BERL' />
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:postcode' v='1040' />
+    <tag k='addr:street' v='Rue de la Loi - Wetstraat' />
+    <tag k='architect' v='Lucien De Vestel;Jean Gilson;André Polak;Jean Polak' />
+    <tag k='building' v='public' />
+    <tag k='building:colour' v='#C0C0C0' />
+    <tag k='building:levels' v='14' />
+    <tag k='country' v='EU' />
+    <tag k='description' v='European Commission HQ' />
+    <tag k='full_name:de' v='Berlaymont-Gebäude' />
+    <tag k='full_name:en' v='Berlaymont building' />
+    <tag k='full_name:fr' v='Bâtiment Berlaymont' />
+    <tag k='full_name:it' v='Palazzo Berlaymont' />
+    <tag k='full_name:nl' v='Berlaymontgebouw' />
+    <tag k='government' v='presidency' />
+    <tag k='height' v='55' />
+    <tag k='heritage:website' v='http://www.irismonument.be/nl.Brussel_Uitbreiding_Oost.Wetstraat.200.html' />
+    <tag k='image' v='https://images.mapillary.com/BZl4gTMHWSSq3SyNEn2kJH/thumb-2048.jpg' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/BZl4gTMHWSSq3SyNEn2kJH' />
+    <tag k='name' v='Berlaymont' />
+    <tag k='office' v='government' />
+    <tag k='operator' v='European Commission' />
+    <tag k='operator:wikidata' v='Q8880' />
+    <tag k='roof:colour' v='#C0C0C0' />
+    <tag k='start_date' v='1967' />
+    <tag k='wikidata' v='Q821009' />
+    <tag k='wikipedia' v='en:Berlaymont building' />
+  </way>
+</osm>
