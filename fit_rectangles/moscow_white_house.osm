@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-117667' action='modify' visible='true' lat='55.7547064' lon='37.5745231' />
+  <node id='-117668' action='modify' visible='true' lat='55.7540822' lon='37.5739602' />
+  <node id='-117669' action='modify' visible='true' lat='55.7541791' lon='37.5736208' />
+  <node id='-117670' action='modify' visible='true' lat='55.7544663' lon='37.5738798' />
+  <node id='-117671' action='modify' visible='true' lat='55.7549795' lon='37.5720828' />
+  <node id='-117672' action='modify' visible='true' lat='55.7547182' lon='37.5718471' />
+  <node id='-117673' action='modify' visible='true' lat='55.7548051' lon='37.5715428' />
+  <node id='-117674' action='modify' visible='true' lat='55.7556307' lon='37.5722874' />
+  <node id='-117675' action='modify' visible='true' lat='55.7559724' lon='37.5725956' />
+  <node id='-117676' action='modify' visible='true' lat='55.755776' lon='37.5732833' />
+  <node id='-117677' action='modify' visible='true' lat='55.7557469' lon='37.5732571' />
+  <node id='-117678' action='modify' visible='true' lat='55.7557129' lon='37.573376' />
+  <node id='-117679' action='modify' visible='true' lat='55.7557582' lon='37.5734169' />
+  <node id='-117680' action='modify' visible='true' lat='55.7555129' lon='37.5742756' />
+  <node id='-117681' action='modify' visible='true' lat='55.7554528' lon='37.5742214' />
+  <node id='-117682' action='modify' visible='true' lat='55.7554188' lon='37.5743404' />
+  <node id='-117683' action='modify' visible='true' lat='55.7554384' lon='37.5743581' />
+  <node id='-117684' action='modify' visible='true' lat='55.755251' lon='37.5750142' />
+  <node id='-117685' action='modify' visible='true' lat='55.7557326' lon='37.5726707' />
+  <node id='-117686' action='modify' visible='true' lat='55.7553961' lon='37.5723672' />
+  <node id='-117687' action='modify' visible='true' lat='55.7552103' lon='37.5730176' />
+  <node id='-117688' action='modify' visible='true' lat='55.7555468' lon='37.5733211' />
+  <node id='-117689' action='modify' visible='true' lat='55.7553553' lon='37.574006' />
+  <node id='-117690' action='modify' visible='true' lat='55.7550205' lon='37.5737041' />
+  <node id='-117691' action='modify' visible='true' lat='55.7548322' lon='37.5743633' />
+  <node id='-117692' action='modify' visible='true' lat='55.755167' lon='37.5746652' />
+  <way id='-102929' action='modify' visible='true'>
+    <nd ref='-117667' />
+    <nd ref='-117668' />
+    <nd ref='-117669' />
+    <nd ref='-117670' />
+    <nd ref='-117671' />
+    <nd ref='-117672' />
+    <nd ref='-117673' />
+    <nd ref='-117674' />
+  </way>
+  <way id='-102930' action='modify' visible='true'>
+    <nd ref='-117674' />
+    <nd ref='-117675' />
+    <nd ref='-117676' />
+    <nd ref='-117677' />
+    <nd ref='-117678' />
+    <nd ref='-117679' />
+    <nd ref='-117680' />
+    <nd ref='-117681' />
+    <nd ref='-117682' />
+    <nd ref='-117683' />
+    <nd ref='-117684' />
+    <nd ref='-117667' />
+  </way>
+  <way id='-102931' action='modify' visible='true'>
+    <nd ref='-117685' />
+    <nd ref='-117686' />
+    <nd ref='-117687' />
+    <nd ref='-117688' />
+    <nd ref='-117685' />
+  </way>
+  <way id='-102932' action='modify' visible='true'>
+    <nd ref='-117689' />
+    <nd ref='-117690' />
+    <nd ref='-117691' />
+    <nd ref='-117692' />
+    <nd ref='-117689' />
+  </way>
+  <relation id='-99829' action='modify' visible='true'>
+    <member type='way' ref='-102929' role='outer' />
+    <member type='way' ref='-102930' role='outer' />
+    <member type='way' ref='-102931' role='inner' />
+    <member type='way' ref='-102932' role='inner' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Краснопресненская набережная' />
+    <tag k='alt_name' v='Белый дом' />
+    <tag k='building' v='office' />
+    <tag k='building:levels' v='22' />
+    <tag k='building:material' v='marble' />
+    <tag k='contact:website' v='http://government.ru/' />
+    <tag k='name' v='Дом Правительства Российской Федерации' />
+    <tag k='name:de' v='Weißes Haus' />
+    <tag k='name:en' v='White House' />
+    <tag k='name:eo' v='Blanka Domo' />
+    <tag k='name:fi' v='Valkoinen talo' />
+    <tag k='name:fr' v='Maison blanche' />
+    <tag k='name:ja' v='ベールイ・ドーム' />
+    <tag k='name:nl' v='Witte Huis' />
+    <tag k='name:pl' v='Biały Dom' />
+    <tag k='name:ro' v='Casa Albă' />
+    <tag k='name:ru' v='ru:Дом Правительства Российской Федерации' />
+    <tag k='name:uk' v='Білий дім' />
+    <tag k='name:vi' v='Nhà Trắng' />
+    <tag k='note' v='этажей 20, но с учетом двух этажей башни — 22' />
+    <tag k='office' v='government' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wikidata' v='Q844124' />
+    <tag k='wikipedia' v='ru:Дом Правительства Российской Федерации' />
+  </relation>
+</osm>

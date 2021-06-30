@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-117558' action='modify' visible='true' lat='55.7547064' lon='37.5745231' />
+  <node id='-117559' action='modify' visible='true' lat='55.7540822' lon='37.5739602' />
+  <node id='-117560' action='modify' visible='true' lat='55.7541791' lon='37.5736208' />
+  <node id='-117561' action='modify' visible='true' lat='55.7544663' lon='37.5738798' />
+  <node id='-117562' action='modify' visible='true' lat='55.7549795' lon='37.5720828' />
+  <node id='-117563' action='modify' visible='true' lat='55.7547182' lon='37.5718471' />
+  <node id='-117564' action='modify' visible='true' lat='55.7548051' lon='37.5715428' />
+  <node id='-117565' action='modify' visible='true' lat='55.7556307' lon='37.5722874' />
+  <node id='-117566' action='modify' visible='true' lat='55.7559724' lon='37.5725956' />
+  <node id='-117567' action='modify' visible='true' lat='55.755776' lon='37.5732833' />
+  <node id='-117568' action='modify' visible='true' lat='55.7557469' lon='37.5732571' />
+  <node id='-117569' action='modify' visible='true' lat='55.7557129' lon='37.573376' />
+  <node id='-117570' action='modify' visible='true' lat='55.7557582' lon='37.5734169' />
+  <node id='-117571' action='modify' visible='true' lat='55.7555129' lon='37.5742756' />
+  <node id='-117572' action='modify' visible='true' lat='55.7554528' lon='37.5742214' />
+  <node id='-117573' action='modify' visible='true' lat='55.7554188' lon='37.5743404' />
+  <node id='-117574' action='modify' visible='true' lat='55.7554384' lon='37.5743581' />
+  <node id='-117575' action='modify' visible='true' lat='55.755251' lon='37.5750142' />
+  <node id='-117576' action='modify' visible='true' lat='55.7557326' lon='37.5726707' />
+  <node id='-117577' action='modify' visible='true' lat='55.7553961' lon='37.5723672' />
+  <node id='-117578' action='modify' visible='true' lat='55.7552103' lon='37.5730176' />
+  <node id='-117579' action='modify' visible='true' lat='55.7555468' lon='37.5733211' />
+  <node id='-117580' action='modify' visible='true' lat='55.7553553' lon='37.574006' />
+  <node id='-117581' action='modify' visible='true' lat='55.7550205' lon='37.5737041' />
+  <node id='-117582' action='modify' visible='true' lat='55.7548322' lon='37.5743633' />
+  <node id='-117583' action='modify' visible='true' lat='55.755167' lon='37.5746652' />
+  <node id='-117598' action='modify' visible='true' lat='55.7551589' lon='37.5726428' />
+  <node id='-117599' action='modify' visible='true' lat='55.754797' lon='37.5739044' />
+  <node id='-117600' action='modify' visible='true' lat='55.7547547' lon='37.5739655' />
+  <node id='-117601' action='modify' visible='true' lat='55.7547006' lon='37.5739753' />
+  <node id='-117602' action='modify' visible='true' lat='55.7546523' lon='37.5739305' />
+  <node id='-117603' action='modify' visible='true' lat='55.7546258' lon='37.5738459' />
+  <node id='-117604' action='modify' visible='true' lat='55.7546299' lon='37.5737494' />
+  <node id='-117605' action='modify' visible='true' lat='55.754998' lon='37.5724662' />
+  <node id='-117606' action='modify' visible='true' lat='55.7550426' lon='37.5724254' />
+  <node id='-117607' action='modify' visible='true' lat='55.7550927' lon='37.5724289' />
+  <node id='-117608' action='modify' visible='true' lat='55.7551353' lon='37.5724757' />
+  <node id='-117609' action='modify' visible='true' lat='55.7551595' lon='37.5725538' />
+  <way id='-102827' action='modify' visible='true'>
+    <nd ref='-117565' />
+    <nd ref='-117566' />
+    <nd ref='-117567' />
+    <nd ref='-117568' />
+    <nd ref='-117569' />
+    <nd ref='-117570' />
+    <nd ref='-117571' />
+    <nd ref='-117572' />
+    <nd ref='-117573' />
+    <nd ref='-117574' />
+    <nd ref='-117575' />
+    <nd ref='-117558' />
+    <nd ref='-117559' />
+    <nd ref='-117560' />
+    <nd ref='-117561' />
+    <nd ref='-117562' />
+    <nd ref='-117563' />
+    <nd ref='-117564' />
+    <nd ref='-117565' />
+  </way>
+  <way id='-102829' action='modify' visible='true'>
+    <nd ref='-117576' />
+    <nd ref='-117577' />
+    <nd ref='-117578' />
+    <nd ref='-117579' />
+    <nd ref='-117576' />
+  </way>
+  <way id='-102830' action='modify' visible='true'>
+    <nd ref='-117580' />
+    <nd ref='-117581' />
+    <nd ref='-117582' />
+    <nd ref='-117583' />
+    <nd ref='-117580' />
+  </way>
+  <way id='-102839' action='modify' visible='true'>
+    <nd ref='-117598' />
+    <nd ref='-117599' />
+    <nd ref='-117600' />
+    <nd ref='-117601' />
+    <nd ref='-117602' />
+    <nd ref='-117603' />
+    <nd ref='-117604' />
+    <nd ref='-117605' />
+    <nd ref='-117606' />
+    <nd ref='-117607' />
+    <nd ref='-117608' />
+    <nd ref='-117609' />
+    <nd ref='-117598' />
+  </way>
+  <relation id='-99794' action='modify' visible='true'>
+    <member type='way' ref='-102827' role='outer' />
+    <member type='way' ref='-102829' role='inner' />
+    <member type='way' ref='-102830' role='inner' />
+    <member type='way' ref='-102839' role='inner' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Краснопресненская набережная' />
+    <tag k='alt_name' v='Белый дом' />
+    <tag k='building' v='office' />
+    <tag k='building:levels' v='22' />
+    <tag k='building:material' v='marble' />
+    <tag k='contact:website' v='http://government.ru/' />
+    <tag k='name' v='Дом Правительства Российской Федерации' />
+    <tag k='name:de' v='Weißes Haus' />
+    <tag k='name:en' v='White House' />
+    <tag k='name:eo' v='Blanka Domo' />
+    <tag k='name:fi' v='Valkoinen talo' />
+    <tag k='name:fr' v='Maison blanche' />
+    <tag k='name:ja' v='ベールイ・ドーム' />
+    <tag k='name:nl' v='Witte Huis' />
+    <tag k='name:pl' v='Biały Dom' />
+    <tag k='name:ro' v='Casa Albă' />
+    <tag k='name:ru' v='ru:Дом Правительства Российской Федерации' />
+    <tag k='name:uk' v='Білий дім' />
+    <tag k='name:vi' v='Nhà Trắng' />
+    <tag k='note' v='этажей 20, но с учетом двух этажей башни — 22' />
+    <tag k='office' v='government' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wikidata' v='Q844124' />
+    <tag k='wikipedia' v='ru:Дом Правительства Российской Федерации' />
+  </relation>
+</osm>
