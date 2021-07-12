@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101778' action='modify' visible='true' lat='43.39841442668' lon='39.96960853081' />
+  <node id='-101779' action='modify' visible='true' lat='43.39858767918' lon='39.96971347274' />
+  <node id='-101780' action='modify' visible='true' lat='43.3985367234' lon='39.96987281919' />
+  <node id='-101781' action='modify' visible='true' lat='43.39836347074' lon='39.96976787726' />
+  <way id='-103690' action='modify' visible='true'>
+    <nd ref='-101778' />
+    <nd ref='-101779' />
+    <nd ref='-101780' />
+    <nd ref='-101781' />
+    <nd ref='-101778' />
+    <tag k='addr:city' v='Сириус' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='улица 65 лет Победы' />
+    <tag k='building' v='apartments' />
+    <tag k='building:levels' v='3' />
+  </way>
+</osm>
