@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101780' action='modify' visible='true' lat='43.40477114759' lon='39.95959412752' />
+  <node id='-101781' action='modify' visible='true' lat='43.40473518577' lon='39.95957571974' />
+  <node id='-101782' action='modify' visible='true' lat='43.40469687967' lon='39.95957271982' />
+  <node id='-101783' action='modify' visible='true' lat='43.40465963296' lon='39.95958539432' />
+  <node id='-101784' action='modify' visible='true' lat='43.40462675519' lon='39.95961261706' />
+  <node id='-101785' action='modify' visible='true' lat='43.40460116768' lon='39.95965196917' />
+  <node id='-101786' action='modify' visible='true' lat='43.40458514403' lon='39.95969995404' />
+  <node id='-101787' action='modify' visible='true' lat='43.404580108' lon='39.95975230802' />
+  <node id='-101788' action='modify' visible='true' lat='43.40458650707' lon='39.95980437922' />
+  <node id='-101789' action='modify' visible='true' lat='43.40460377266' lon='39.95985154088' />
+  <node id='-101790' action='modify' visible='true' lat='43.40463037062' lon='39.95988960249' />
+  <node id='-101791' action='modify' visible='true' lat='43.40466393762' lon='39.9599151821' />
+  <node id='-101792' action='modify' visible='true' lat='43.40470149105' lon='39.95992600685' />
+  <node id='-101793' action='modify' visible='true' lat='43.40473969414' lon='39.95992111492' />
+  <node id='-101794' action='modify' visible='true' lat='43.40477515236' lon='39.95990094097' />
+  <node id='-101795' action='modify' visible='true' lat='43.40480471512' lon='39.95986727756' />
+  <node id='-101796' action='modify' visible='true' lat='43.40482575563' lon='39.95982311581' />
+  <node id='-101797' action='modify' visible='true' lat='43.40483640437' lon='39.95977237971' />
+  <node id='-101798' action='modify' visible='true' lat='43.40483571515' lon='39.95971957736' />
+  <node id='-101799' action='modify' visible='true' lat='43.40482374922' lon='39.9596694005' />
+  <node id='-101800' action='modify' visible='true' lat='43.40480156979' lon='39.95962630755' />
+  <way id='-103594' action='modify' visible='true'>
+    <nd ref='-101780' />
+    <nd ref='-101781' />
+    <nd ref='-101782' />
+    <nd ref='-101783' />
+    <nd ref='-101784' />
+    <nd ref='-101785' />
+    <nd ref='-101786' />
+    <nd ref='-101787' />
+    <nd ref='-101788' />
+    <nd ref='-101789' />
+    <nd ref='-101790' />
+    <nd ref='-101791' />
+    <nd ref='-101792' />
+    <nd ref='-101793' />
+    <nd ref='-101794' />
+    <nd ref='-101795' />
+    <nd ref='-101796' />
+    <nd ref='-101797' />
+    <nd ref='-101798' />
+    <nd ref='-101799' />
+    <nd ref='-101800' />
+    <nd ref='-101780' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Планетарий' />
+  </way>
+</osm>

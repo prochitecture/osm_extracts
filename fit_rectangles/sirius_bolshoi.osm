@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101787' action='modify' visible='true' lat='43.4054209' lon='39.9496418' />
+  <node id='-101788' action='modify' visible='true' lat='43.4053624' lon='39.949464' />
+  <node id='-101789' action='modify' visible='true' lat='43.4052601' lon='39.9492896' />
+  <node id='-101790' action='modify' visible='true' lat='43.4051699' lon='39.9491923' />
+  <node id='-101791' action='modify' visible='true' lat='43.4050651' lon='39.9491151' />
+  <node id='-101792' action='modify' visible='true' lat='43.4049164' lon='39.9490447' />
+  <node id='-101793' action='modify' visible='true' lat='43.4047775' lon='39.9490145' />
+  <node id='-101794' action='modify' visible='true' lat='43.4046167' lon='39.9490044' />
+  <node id='-101795' action='modify' visible='true' lat='43.4044485' lon='39.9490313' />
+  <node id='-101796' action='modify' visible='true' lat='43.4042949' lon='39.9490749' />
+  <node id='-101797' action='modify' visible='true' lat='43.4041536' lon='39.9491453' />
+  <node id='-101798' action='modify' visible='true' lat='43.4040073' lon='39.9492594' />
+  <node id='-101799' action='modify' visible='true' lat='43.403883' lon='39.9493969' />
+  <node id='-101800' action='modify' visible='true' lat='43.4037709' lon='39.9495647' />
+  <node id='-101801' action='modify' visible='true' lat='43.4036905' lon='39.9497559' />
+  <node id='-101802' action='modify' visible='true' lat='43.4036564' lon='39.9499404' />
+  <node id='-101803' action='modify' visible='true' lat='43.4036491' lon='39.9501383' />
+  <node id='-101804' action='modify' visible='true' lat='43.4036808' lon='39.9503127' />
+  <node id='-101805' action='modify' visible='true' lat='43.4037563' lon='39.9504905' />
+  <node id='-101806' action='modify' visible='true' lat='43.4038489' lon='39.9506247' />
+  <node id='-101807' action='modify' visible='true' lat='43.4039708' lon='39.9507421' />
+  <node id='-101808' action='modify' visible='true' lat='43.4040975' lon='39.9508159' />
+  <node id='-101809' action='modify' visible='true' lat='43.4042364' lon='39.9508696' />
+  <node id='-101810' action='modify' visible='true' lat='43.4044047' lon='39.9508944' />
+  <node id='-101811' action='modify' visible='true' lat='43.4045728' lon='39.9508797' />
+  <node id='-101812' action='modify' visible='true' lat='43.4047653' lon='39.9508361' />
+  <node id='-101813' action='modify' visible='true' lat='43.4049335' lon='39.9507556' />
+  <node id='-101814' action='modify' visible='true' lat='43.4050748' lon='39.9506482' />
+  <node id='-101815' action='modify' visible='true' lat='43.4052089' lon='39.950504' />
+  <node id='-101816' action='modify' visible='true' lat='43.4053015' lon='39.9503631' />
+  <node id='-101817' action='modify' visible='true' lat='43.4053722' lon='39.9502289' />
+  <node id='-101818' action='modify' visible='true' lat='43.4054282' lon='39.9500343' />
+  <node id='-101819' action='modify' visible='true' lat='43.4054404' lon='39.9498498' />
+  <node id='-101820' action='modify' visible='true' lat='43.4054261' lon='39.949697' />
+  <way id='-103555' action='modify' visible='true'>
+    <nd ref='-101787' />
+    <nd ref='-101788' />
+    <nd ref='-101789' />
+    <nd ref='-101790' />
+    <nd ref='-101791' />
+    <nd ref='-101792' />
+    <nd ref='-101793' />
+    <nd ref='-101794' />
+    <nd ref='-101795' />
+    <nd ref='-101796' />
+    <nd ref='-101797' />
+    <nd ref='-101798' />
+    <nd ref='-101799' />
+    <nd ref='-101800' />
+    <nd ref='-101801' />
+    <nd ref='-101802' />
+    <nd ref='-101803' />
+    <nd ref='-101804' />
+    <nd ref='-101805' />
+    <nd ref='-101806' />
+    <nd ref='-101807' />
+    <nd ref='-101808' />
+    <nd ref='-101809' />
+    <nd ref='-101810' />
+    <nd ref='-101811' />
+    <nd ref='-101812' />
+    <nd ref='-101813' />
+    <nd ref='-101814' />
+    <nd ref='-101815' />
+    <nd ref='-101816' />
+    <nd ref='-101817' />
+    <nd ref='-101818' />
+    <nd ref='-101819' />
+    <nd ref='-101820' />
+    <nd ref='-101787' />
+    <tag k='addr:city' v='Сочи' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Олимпийский проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='49' />
+    <tag k='capacity' v='12000' />
+    <tag k='contact:phone' v='+7 928 8400534' />
+    <tag k='fire_operator' v='RU-KDA-10-19' />
+    <tag k='fire_rank' v='4' />
+    <tag k='full_name' v='Ледовый дворец «Большой»' />
+    <tag k='leisure' v='stadium' />
+    <tag k='name' v='Ледовый дворец &quot;Большой&quot;' />
+    <tag k='name:de' v='Bolschoi-Eispalast' />
+    <tag k='name:en' v='Bolshoy Ice Dome' />
+    <tag k='name:ru' v='Ледовый дворец &quot;Большой&quot;' />
+    <tag k='name:tr' v='Bolşoy Buz Kubbesi' />
+    <tag k='sport' v='ice_hockey' />
+    <tag k='start_date' v='2012' />
+    <tag k='wikidata' v='Q2272937' />
+    <tag k='wikipedia' v='ru:Большой (ледовый дворец)' />
+  </way>
+</osm>
