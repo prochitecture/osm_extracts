@@ -182,7 +182,28 @@
   <node id='-102083' action='modify' visible='true' lat='54.51329980633' lon='9.91251447694' />
   <node id='-102084' action='modify' visible='true' lat='54.51327773262' lon='9.91251527694' />
   <node id='-102085' action='modify' visible='true' lat='54.51327608225' lon='9.91237307694' />
-  <way id='-101793' action='modify' visible='true'>
+  <node id='-102086' action='modify' visible='true' lat='54.51370714162' lon='9.91224327065' />
+  <node id='-102087' action='modify' visible='true' lat='54.51367840709' lon='9.91222486287' />
+  <node id='-102088' action='modify' visible='true' lat='54.51364779942' lon='9.91222186295' />
+  <node id='-102089' action='modify' visible='true' lat='54.51361803823' lon='9.91223453745' />
+  <node id='-102090' action='modify' visible='true' lat='54.51359176794' lon='9.91226176019' />
+  <node id='-102091' action='modify' visible='true' lat='54.51357132279' lon='9.9123011123' />
+  <node id='-102092' action='modify' visible='true' lat='54.51355851942' lon='9.91234909718' />
+  <node id='-102093' action='modify' visible='true' lat='54.51355449549' lon='9.91240145115' />
+  <node id='-102094' action='modify' visible='true' lat='54.51355960853' lon='9.91245352235' />
+  <node id='-102095' action='modify' visible='true' lat='54.51357340423' lon='9.91250068401' />
+  <node id='-102096' action='modify' visible='true' lat='54.51359465678' lon='9.91253874562' />
+  <node id='-102097' action='modify' visible='true' lat='54.51362147777' lon='9.91256432523' />
+  <node id='-102098' action='modify' visible='true' lat='54.51365148405' lon='9.91257514998' />
+  <node id='-102099' action='modify' visible='true' lat='54.51368200941' lon='9.91257025805' />
+  <node id='-102100' action='modify' visible='true' lat='54.51371034154' lon='9.91255008411' />
+  <node id='-102101' action='modify' visible='true' lat='54.51373396303' lon='9.91251642069' />
+  <node id='-102102' action='modify' visible='true' lat='54.51375077499' lon='9.91247225895' />
+  <node id='-102103' action='modify' visible='true' lat='54.51375928364' lon='9.91242152284' />
+  <node id='-102104' action='modify' visible='true' lat='54.51375873293' lon='9.91236872049' />
+  <node id='-102105' action='modify' visible='true' lat='54.51374917181' lon='9.91231854363' />
+  <node id='-102106' action='modify' visible='true' lat='54.51373144982' lon='9.91227545068' />
+  <way id='-103775' action='modify' visible='true'>
     <nd ref='-101814' />
     <nd ref='-101818' />
     <nd ref='-101819' />
@@ -260,7 +281,7 @@
     <nd ref='-101814' />
     <tag k='building' v='yes' />
   </way>
-  <way id='-101797' action='modify' visible='true'>
+  <way id='-103776' action='modify' visible='true'>
     <nd ref='-101929' />
     <nd ref='-101930' />
     <nd ref='-101931' />
@@ -288,7 +309,7 @@
     <tag k='building' v='apartments' />
     <tag k='building:levels' v='6' />
   </way>
-  <way id='-101805' action='modify' visible='true'>
+  <way id='-103777' action='modify' visible='true'>
     <nd ref='-101953' />
     <nd ref='-101954' />
     <nd ref='-101955' />
@@ -317,7 +338,7 @@
     <tag k='building:levels' v='4' />
     <tag k='roof:shape' v='flat' />
   </way>
-  <way id='-101853' action='modify' visible='true'>
+  <way id='-103778' action='modify' visible='true'>
     <nd ref='-101973' />
     <nd ref='-101974' />
     <nd ref='-101975' />
@@ -359,7 +380,7 @@
     <tag k='building' v='apartments' />
     <tag k='building:levels' v='8' />
   </way>
-  <way id='-102828' action='modify' visible='true'>
+  <way id='-103779' action='modify' visible='true'>
     <nd ref='-102058' />
     <nd ref='-102059' />
     <nd ref='-102060' />
@@ -394,5 +415,30 @@
     <tag k='addr:suburb' v='Новый город' />
     <tag k='building' v='yes' />
     <tag k='building:levels' v='4' />
+  </way>
+  <way id='-103790' action='modify' visible='true'>
+    <nd ref='-102086' />
+    <nd ref='-102087' />
+    <nd ref='-102088' />
+    <nd ref='-102089' />
+    <nd ref='-102090' />
+    <nd ref='-102091' />
+    <nd ref='-102092' />
+    <nd ref='-102093' />
+    <nd ref='-102094' />
+    <nd ref='-102095' />
+    <nd ref='-102096' />
+    <nd ref='-102097' />
+    <nd ref='-102098' />
+    <nd ref='-102099' />
+    <nd ref='-102100' />
+    <nd ref='-102101' />
+    <nd ref='-102102' />
+    <nd ref='-102103' />
+    <nd ref='-102104' />
+    <nd ref='-102105' />
+    <nd ref='-102106' />
+    <nd ref='-102086' />
+    <tag k='building' v='yes' />
   </way>
 </osm>
