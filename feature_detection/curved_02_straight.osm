@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-102865' action='modify' visible='true' lat='40.7070594' lon='-74.0116372' />
+  <node id='-102866' action='modify' visible='true' lat='40.7070809' lon='-74.0116831' />
+  <node id='-102867' action='modify' visible='true' lat='40.7070837' lon='-74.0116889' />
+  <node id='-102868' action='modify' visible='true' lat='40.7070922' lon='-74.0117071' />
+  <node id='-102869' action='modify' visible='true' lat='40.7070992' lon='-74.0117221' />
+  <node id='-102870' action='modify' visible='true' lat='40.7071151' lon='-74.011756' />
+  <node id='-102871' action='modify' visible='true' lat='40.7071274' lon='-74.0117822' />
+  <node id='-102872' action='modify' visible='true' lat='40.7071674' lon='-74.0118669' />
+  <node id='-102873' action='modify' visible='true' lat='40.7071711' lon='-74.011875' />
+  <node id='-102874' action='modify' visible='true' lat='40.7071969' lon='-74.0119324' />
+  <node id='-102875' action='modify' visible='true' lat='40.7072033' lon='-74.0119455' />
+  <node id='-102876' action='modify' visible='true' lat='40.7072097' lon='-74.0119589' />
+  <node id='-102877' action='modify' visible='true' lat='40.7072185' lon='-74.0119773' />
+  <node id='-102878' action='modify' visible='true' lat='40.7073773' lon='-74.0118474' />
+  <node id='-102879' action='modify' visible='true' lat='40.707566' lon='-74.0116929' />
+  <node id='-102880' action='modify' visible='true' lat='40.7076102' lon='-74.0116567' />
+  <node id='-102881' action='modify' visible='true' lat='40.7076184' lon='-74.0116087' />
+  <node id='-102882' action='modify' visible='true' lat='40.7075862' lon='-74.0115195' />
+  <node id='-102883' action='modify' visible='true' lat='40.7075565' lon='-74.0114569' />
+  <node id='-102884' action='modify' visible='true' lat='40.7075025' lon='-74.0113643' />
+  <node id='-102885' action='modify' visible='true' lat='40.7074704' lon='-74.0113618' />
+  <node id='-102886' action='modify' visible='true' lat='40.7074238' lon='-74.011393' />
+  <node id='-102887' action='modify' visible='true' lat='40.7072261' lon='-74.0115255' />
+  <way id='-104089' action='modify' visible='true'>
+    <nd ref='-102865' />
+    <nd ref='-102866' />
+    <nd ref='-102867' />
+    <nd ref='-102868' />
+    <nd ref='-102869' />
+    <nd ref='-102870' />
+    <nd ref='-102871' />
+    <nd ref='-102872' />
+    <nd ref='-102873' />
+    <nd ref='-102874' />
+    <nd ref='-102875' />
+    <nd ref='-102876' />
+    <nd ref='-102877' />
+    <nd ref='-102878' />
+    <nd ref='-102879' />
+    <nd ref='-102880' />
+    <nd ref='-102881' />
+    <nd ref='-102882' />
+    <nd ref='-102883' />
+    <nd ref='-102884' />
+    <nd ref='-102885' />
+    <nd ref='-102886' />
+    <nd ref='-102887' />
+    <nd ref='-102865' />
+    <tag k='addr:city' v='New York' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:state' v='NY' />
+    <tag k='addr:street' v='Wall Street' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='1 Wall Street' />
+    <tag k='nycdoitt:bin' v='1000815' />
+    <tag k='old_name' v='Bank of New York Building' />
+    <tag k='start_date' v='1931' />
+    <tag k='wikidata' v='Q209017' />
+    <tag k='wikipedia' v='en:1 Wall Street' />
+  </way>
+</osm>

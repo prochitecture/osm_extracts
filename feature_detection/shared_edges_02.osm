@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101801' action='modify' visible='true' lat='40.706629' lon='-74.0127841' />
+  <node id='-101802' action='modify' visible='true' lat='40.7066119' lon='-74.0127992'>
+    <tag k='access' v='yes' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='10006' />
+    <tag k='addr:street' v='Broadway' />
+    <tag k='automatic_door' v='no' />
+    <tag k='door' v='hinged' />
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='-101803' action='modify' visible='true' lat='40.7065661' lon='-74.0128396' />
+  <node id='-101804' action='modify' visible='true' lat='40.7068304' lon='-74.0134427' />
+  <node id='-101805' action='modify' visible='true' lat='40.7068624' lon='-74.0134188'>
+    <tag k='access' v='yes' />
+    <tag k='automatic_door' v='no' />
+    <tag k='door' v='hinged' />
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='-101806' action='modify' visible='true' lat='40.7068949' lon='-74.0133945' />
+  <node id='-101807' action='modify' visible='true' lat='40.7067867' lon='-74.0131444' />
+  <node id='-101808' action='modify' visible='true' lat='40.706668' lon='-74.012874' />
+  <node id='-101809' action='modify' visible='true' lat='40.707065' lon='-74.0132666' />
+  <node id='-101810' action='modify' visible='true' lat='40.7070703' lon='-74.0132593' />
+  <node id='-101811' action='modify' visible='true' lat='40.7070732' lon='-74.0132501' />
+  <node id='-101812' action='modify' visible='true' lat='40.7070737' lon='-74.0132451' />
+  <node id='-101813' action='modify' visible='true' lat='40.7070726' lon='-74.0132352' />
+  <node id='-101814' action='modify' visible='true' lat='40.7070059' lon='-74.0130822' />
+  <node id='-101815' action='modify' visible='true' lat='40.7069589' lon='-74.0131175' />
+  <node id='-101816' action='modify' visible='true' lat='40.706962' lon='-74.0131073' />
+  <node id='-101817' action='modify' visible='true' lat='40.7069622' lon='-74.0130963' />
+  <node id='-101818' action='modify' visible='true' lat='40.7069613' lon='-74.0130909' />
+  <node id='-101819' action='modify' visible='true' lat='40.7067819' lon='-74.0126794' />
+  <node id='-101820' action='modify' visible='true' lat='40.7067792' lon='-74.0126764' />
+  <node id='-101821' action='modify' visible='true' lat='40.7067729' lon='-74.0126726' />
+  <node id='-101822' action='modify' visible='true' lat='40.7067694' lon='-74.0126718' />
+  <node id='-101823' action='modify' visible='true' lat='40.7067659' lon='-74.0126718' />
+  <node id='-101824' action='modify' visible='true' lat='40.7067591' lon='-74.0126742' />
+  <node id='-101825' action='modify' visible='true' lat='40.7067452' lon='-74.0126868' />
+  <node id='-101826' action='modify' visible='true' lat='40.7066622' lon='-74.012756' />
+  <node id='-101827' action='modify' visible='true' lat='40.7066591' lon='-74.0127604' />
+  <node id='-101828' action='modify' visible='true' lat='40.7066544' lon='-74.0127708' />
+  <node id='-101829' action='modify' visible='true' lat='40.7066529' lon='-74.0127765' />
+  <node id='-101830' action='modify' visible='true' lat='40.7066888' lon='-74.0128584' />
+  <way id='-102293' action='modify' visible='true'>
+    <nd ref='-101801' />
+    <nd ref='-101802' />
+    <nd ref='-101803' />
+    <nd ref='-101804' />
+    <nd ref='-101805' />
+    <nd ref='-101806' />
+    <nd ref='-101807' />
+    <nd ref='-101808' />
+    <nd ref='-101801' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Broadway' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='atm' v='yes' />
+    <tag k='building' v='commercial' />
+    <tag k='building:colour' v='#5B3630' />
+    <tag k='building:levels' v='5' />
+    <tag k='building:material' v='brick' />
+    <tag k='building:start_date' v='1900' />
+    <tag k='cuisine' v='american' />
+    <tag k='delivery' v='yes' />
+    <tag k='height' v='17.8' />
+    <tag k='indoor_seating' v='yes' />
+    <tag k='internet_access' v='terminal' />
+    <tag k='internet_access:fee' v='yes' />
+    <tag k='name' v='Cafe Exchange' />
+    <tag k='nycdoitt:bin' v='1000806' />
+    <tag k='opening_hours' v='Mo-Sa 06:00-17:00' />
+    <tag k='payment:american_express' v='yes' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+1 212-425-5000' />
+    <tag k='roof:colour' v='#50574F' />
+    <tag k='roof:material' v='concrete' />
+    <tag k='roof:shape' v='flat' />
+    <tag k='toilets' v='yes' />
+    <tag k='toilets:access' v='customers' />
+    <tag k='toilets:wheelchair' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-102294' action='modify' visible='true'>
+    <nd ref='-101806' />
+    <nd ref='-101809' />
+    <nd ref='-101810' />
+    <nd ref='-101811' />
+    <nd ref='-101812' />
+    <nd ref='-101813' />
+    <nd ref='-101814' />
+    <nd ref='-101815' />
+    <nd ref='-101816' />
+    <nd ref='-101817' />
+    <nd ref='-101818' />
+    <nd ref='-101819' />
+    <nd ref='-101820' />
+    <nd ref='-101821' />
+    <nd ref='-101822' />
+    <nd ref='-101823' />
+    <nd ref='-101824' />
+    <nd ref='-101825' />
+    <nd ref='-101826' />
+    <nd ref='-101827' />
+    <nd ref='-101828' />
+    <nd ref='-101829' />
+    <nd ref='-101830' />
+    <nd ref='-101808' />
+    <nd ref='-101807' />
+    <nd ref='-101806' />
+    <tag k='addr:city' v='New York' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='10006' />
+    <tag k='addr:street' v='Broadway' />
+    <tag k='building' v='office' />
+    <tag k='building:levels' v='31' />
+    <tag k='name' v='One Exchange Plaza' />
+    <tag k='nycdoitt:bin' v='1000807' />
+    <tag k='owner' v='Harbor Group International' />
+    <tag k='start_date' v='1984' />
+  </way>
+</osm>

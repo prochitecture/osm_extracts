@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-103163' action='modify' visible='true' lat='40.7068808' lon='-74.0115875' />
+  <node id='-103164' action='modify' visible='true' lat='40.7073923' lon='-74.0112489' />
+  <node id='-103165' action='modify' visible='true' lat='40.7073927' lon='-74.0112167' />
+  <node id='-103166' action='modify' visible='true' lat='40.7071378' lon='-74.0108331' />
+  <node id='-103167' action='modify' visible='true' lat='40.7069928' lon='-74.0109337' />
+  <node id='-103168' action='modify' visible='true' lat='40.7066568' lon='-74.011145' />
+  <node id='-103169' action='modify' visible='true' lat='40.7067538' lon='-74.0113648' />
+  <node id='-103170' action='modify' visible='true' lat='40.7067927' lon='-74.0113387' />
+  <node id='-103171' action='modify' visible='true' lat='40.7068778' lon='-74.0115792'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='10005' />
+    <tag k='addr:street' v='New Street' />
+  </node>
+  <node id='-103172' action='modify' visible='true' lat='40.706652' lon='-74.0111321' />
+  <node id='-103173' action='modify' visible='true' lat='40.7063598' lon='-74.0113207' />
+  <node id='-103174' action='modify' visible='true' lat='40.706497' lon='-74.0116386' />
+  <node id='-103175' action='modify' visible='true' lat='40.7065595' lon='-74.0117835' />
+  <node id='-103176' action='modify' visible='true' lat='40.7068746' lon='-74.0115701' />
+  <node id='-103177' action='modify' visible='true' lat='40.7068685' lon='-74.0115527' />
+  <node id='-103178' action='modify' visible='true' lat='40.7068623' lon='-74.0115353' />
+  <node id='-103179' action='modify' visible='true' lat='40.7068561' lon='-74.0115179' />
+  <node id='-103180' action='modify' visible='true' lat='40.70685' lon='-74.0115005' />
+  <node id='-103181' action='modify' visible='true' lat='40.7068438' lon='-74.0114831' />
+  <node id='-103182' action='modify' visible='true' lat='40.7068376' lon='-74.0114657' />
+  <node id='-103183' action='modify' visible='true' lat='40.7068268' lon='-74.011435' />
+  <node id='-103184' action='modify' visible='true' lat='40.7067106' lon='-74.0112667' />
+  <node id='-103185' action='modify' visible='true' lat='40.7066895' lon='-74.011219' />
+  <node id='-103186' action='modify' visible='true' lat='40.7066657' lon='-74.0111651' />
+  <way id='-103846' action='modify' visible='true'>
+    <nd ref='-103163' />
+    <nd ref='-103164' />
+    <nd ref='-103165' />
+    <nd ref='-103166' />
+    <nd ref='-103167' />
+    <nd ref='-103168' />
+    <nd ref='-103169' />
+    <nd ref='-103170' />
+    <nd ref='-103171' />
+    <nd ref='-103163' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Wall Street' />
+    <tag k='amenity' v='stock_exchange' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='New York Stock Exchange' />
+    <tag k='nycdoitt:bin' v='1078982' />
+    <tag k='short_name' v='NYSE' />
+    <tag k='start_date' v='1922' />
+    <tag k='tourism' v='attraction' />
+    <tag k='wheelchair' v='limited' />
+    <tag k='wikidata' v='Q13677' />
+    <tag k='wikipedia' v='en:New York Stock Exchange' />
+  </way>
+  <way id='-103847' action='modify' visible='true'>
+    <nd ref='-103172' />
+    <nd ref='-103173' />
+    <nd ref='-103174' />
+    <nd ref='-103175' />
+    <nd ref='-103163' />
+    <nd ref='-103171' />
+    <nd ref='-103176' />
+    <nd ref='-103177' />
+    <nd ref='-103178' />
+    <nd ref='-103179' />
+    <nd ref='-103180' />
+    <nd ref='-103181' />
+    <nd ref='-103182' />
+    <nd ref='-103183' />
+    <nd ref='-103170' />
+    <nd ref='-103169' />
+    <nd ref='-103184' />
+    <nd ref='-103185' />
+    <nd ref='-103186' />
+    <nd ref='-103168' />
+    <nd ref='-103172' />
+    <tag k='addr:city' v='New York' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Broad Street' />
+    <tag k='building' v='office' />
+    <tag k='name' v='20 Broad Street' />
+    <tag k='nycdoitt:bin' v='1000816' />
+    <tag k='start_date' v='1956' />
+  </way>
+</osm>
