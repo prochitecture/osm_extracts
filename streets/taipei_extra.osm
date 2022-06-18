@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-06-18T15:02:39Z"/>
+
+  <node id="2757751652" lat="25.0467781" lon="121.5158862"/>
+  <node id="2757751654" lat="25.0468133" lon="121.5157386"/>
+  <node id="2757751655" lat="25.0468433" lon="121.5155418"/>
+  <node id="2757751656" lat="25.0468721" lon="121.5156576"/>
+  <node id="2757751657" lat="25.0468861" lon="121.5156087"/>
+  <node id="2757751658" lat="25.0468982" lon="121.5152942"/>
+  <node id="2757751659" lat="25.0469127" lon="121.5159253"/>
+  <node id="2757751660" lat="25.0469191" lon="121.5156741"/>
+  <node id="2757751661" lat="25.0469238" lon="121.5155635"/>
+  <node id="2757751662" lat="25.0469425" lon="121.5162973"/>
+  <node id="2757751663" lat="25.0469332" lon="121.5156252"/>
+  <node id="2757751664" lat="25.0469479" lon="121.5157777"/>
+  <node id="2757751665" lat="25.0469594" lon="121.5162183"/>
+  <node id="2757751666" lat="25.0469736" lon="121.5162029"/>
+  <node id="2757751667" lat="25.0469780" lon="121.5153538"/>
+  <node id="2757751668" lat="25.0469787" lon="121.5153160"/>
+  <node id="2757751669" lat="25.0469842" lon="121.5161551"/>
+  <node id="2757751670" lat="25.0470057" lon="121.5163139"/>
+  <node id="2757751671" lat="25.0470200" lon="121.5162148"/>
+  <node id="2757751672" lat="25.0470227" lon="121.5162349"/>
+  <node id="2757751673" lat="25.0470307" lon="121.5161670"/>
+  <node id="2757751674" lat="25.0470238" lon="121.5151461"/>
+  <node id="2757751675" lat="25.0470471" lon="121.5153724"/>
+  <node id="2757751676" lat="25.0470929" lon="121.5151647"/>
+  <node id="2757751677" lat="25.0471601" lon="121.5153720"/>
+  <node id="2757751678" lat="25.0471951" lon="121.5152068"/>
+  <node id="2757751679" lat="25.0472284" lon="121.5153078"/>
+  <node id="2757751680" lat="25.0472301" lon="121.5153901"/>
+  <node id="2757751681" lat="25.0472321" lon="121.5151415"/>
+  <node id="2757751682" lat="25.0472425" lon="121.5150952"/>
+  <node id="2757751683" lat="25.0472465" lon="121.5153125"/>
+  <node id="2757751684" lat="25.0472470" lon="121.5152202"/>
+  <node id="2757751685" lat="25.0472746" lon="121.5151530"/>
+  <node id="2757751686" lat="25.0472849" lon="121.5151067"/>
+  <node id="3355241664" lat="25.0469399" lon="121.5153055">
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Z1出口(臺北車站)"/>
+    <tag k="name:en" v="Z1 Exit (Taipei Station)"/>
+    <tag k="name:zh" v="Z1出口(臺北車站)"/>
+    <tag k="ref" v="Z1"/>
+  </node>
+  <node id="4476417053" lat="25.0470618" lon="121.5151563">
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="K10出口"/>
+    <tag k="name:en" v="K10 Exit"/>
+    <tag k="name:zh" v="K10出口"/>
+    <tag k="ref" v="K10"/>
+  </node>
+  <way id="270789160">
+    <nd ref="2757751657"/>
+    <nd ref="2757751656"/>
+    <nd ref="2757751660"/>
+    <nd ref="2757751663"/>
+    <nd ref="2757751657"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789162">
+    <nd ref="2757751658"/>
+    <nd ref="2757751655"/>
+    <nd ref="2757751661"/>
+    <nd ref="2757751668"/>
+    <nd ref="3355241664"/>
+    <nd ref="2757751658"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789163">
+    <nd ref="2757751682"/>
+    <nd ref="2757751681"/>
+    <nd ref="2757751685"/>
+    <nd ref="2757751686"/>
+    <nd ref="2757751682"/>
+    <tag k="building" v="service"/>
+    <tag k="description" v="採光井"/>
+    <tag k="level" v="-1"/>
+    <tag k="man_made" v="mineshaft"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789164">
+    <nd ref="2757751665"/>
+    <nd ref="2757751662"/>
+    <nd ref="2757751670"/>
+    <nd ref="2757751672"/>
+    <nd ref="2757751665"/>
+    <tag k="building" v="roof"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789165">
+    <nd ref="2757751654"/>
+    <nd ref="2757751652"/>
+    <nd ref="2757751659"/>
+    <nd ref="2757751664"/>
+    <nd ref="2757751654"/>
+    <tag k="building" v="service"/>
+    <tag k="description" v="通風口"/>
+    <tag k="man_made" v="mineshaft"/>
+    <tag k="mineshaft_type" v="air"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789166">
+    <nd ref="2757751669"/>
+    <nd ref="2757751673"/>
+    <nd ref="2757751671"/>
+    <nd ref="2757751666"/>
+    <nd ref="2757751669"/>
+    <tag k="building" v="roof"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789167">
+    <nd ref="2757751674"/>
+    <nd ref="2757751667"/>
+    <nd ref="2757751675"/>
+    <nd ref="2757751676"/>
+    <nd ref="4476417053"/>
+    <nd ref="2757751674"/>
+    <tag k="building" v="roof"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="270789168">
+    <nd ref="2757751678"/>
+    <nd ref="2757751677"/>
+    <nd ref="2757751680"/>
+    <nd ref="2757751683"/>
+    <nd ref="2757751679"/>
+    <nd ref="2757751684"/>
+    <nd ref="2757751678"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+
+</osm>
